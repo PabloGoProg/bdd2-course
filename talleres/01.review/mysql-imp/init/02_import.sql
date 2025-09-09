@@ -98,7 +98,7 @@ INSERT INTO statistics (one_trophy, two_or_more_trophies, team_id) VALUES
 (47, 96, 6),
 (50, 99, 7),
 (29, 72, 8),
-(75, 115, 9),
+(75, 3, 9),
 (16, 62, 10),
 (17, 14, 11),
 (29, 65, 12),
